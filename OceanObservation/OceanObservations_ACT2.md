@@ -2,7 +2,7 @@
 ### @explicitHints true
 ### @hideIteration true 
 ### @flyoutOnly 0
-```python
+```
 player.say
 ```
 ## 1단계
